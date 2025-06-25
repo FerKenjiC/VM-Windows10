@@ -1,7 +1,21 @@
-# Como baixar ISO Windows 10
+<h1>Como baixar ISO Windows 10</h1>
 
 - O que é ISO?
   <br>
-  Um arquivo que contém uma **cópia exata** de um sistema de arquivos de um disco óptico (CD/DVD).
+  Um arquivo que contém uma <strong>cópia exata</strong> de um sistema de arquivos de um disco óptico (CD/DVD).
   <br>
   Permite instalar o sistema SO (Sistema Operacional) em uma máquina física ou virtual.
+  <br>
+- Como fazer o seu download?
+  <br>
+ Link: [microsoft.com/pt-br/software-download/windows10ISO](https://www.microsoft.com/pt-br/software-download/windows10ISO).
+  <br>
+    - Passo-a-passo:
+      <ul>
+        <li>Acesse o link acima.</li>
+        <li>Aperte a tecla F12 para abrir as ferramentas de desenvolvedor no navegador.</li>
+        <li>Na barra superiro, clique em
+![image](https://github.com/user-attachments/assets/e974e4bc-ce75-4b93-b917-e7e23cc8c530)
+        </li>
+      </ul> 
+      
