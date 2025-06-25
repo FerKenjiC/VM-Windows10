@@ -14,8 +14,15 @@
       <ul>
         <li>Acesse o link acima.</li>
         <li>Aperte a tecla F12 para abrir as ferramentas de desenvolvedor no navegador.</li>
-        <li>Na barra superiro, clique em
-![image](https://github.com/user-attachments/assets/e974e4bc-ce75-4b93-b917-e7e23cc8c530)
+        <li>
+          Na barra superiro, clique em: <br>
+          <img src="https://github.com/user-attachments/assets/e974e4bc-ce75-4b93-b917-e7e23cc8c530" width="400" style="display: block; margin: auto;">  <br>
         </li>
+        <li> 
+          Desassinale a opção <strong>Usar o padrão do navegador</strong> e selecione a opção <strong>Chrome - IPad</strong>,como na imagem abaixo: <br>
+          <img src="https://github.com/user-attachments/assets/efff1ffd-7ff4-49ac-8575-7974e27d00f8" width="400" style="display: block; margin: auto;"> <br>
+        </li>
+        <li>Recarregue a página.</li>
+        <li>Selecione Windows 10 (ISO) > Confirme > Selecione o idioma > Confirme </li>
       </ul> 
       
