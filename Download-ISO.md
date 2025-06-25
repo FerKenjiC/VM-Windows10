@@ -16,7 +16,7 @@
         <li>Aperte a tecla F12 para abrir as ferramentas de desenvolvedor no navegador.</li>
         <li>
           Na barra superiro, clique em: <br>
-          <img src="https://github.com/user-attachments/assets/e974e4bc-ce75-4b93-b917-e7e23cc8c530" width="400" style="display: block; margin: auto;">  <br>
+          <img src="https://github.com/user-attachments/assets/e974e4bc-ce75-4b93-b917-e7e23cc8c530" width="400" style="display: block; margin: auto;">
         </li>
         <li> 
           Desassinale a opção <strong>Usar o padrão do navegador</strong> e selecione a opção <strong>Chrome - IPad</strong>,como na imagem abaixo: <br>
