@@ -20,7 +20,7 @@
         </li>
         <li> 
           Desassinale a opção <strong>Usar o padrão do navegador</strong> e selecione a opção <strong>Chrome - IPad</strong>, como na imagem abaixo: <br>
-          <img src="https://github.com/user-attachments/assets/efff1ffd-7ff4-49ac-8575-7974e27d00f8" width="400" style="display: block; margin: auto;"> <br>
+          <img src="https://github.com/user-attachments/assets/efff1ffd-7ff4-49ac-8575-7974e27d00f8" width="400" style="display: block; margin: auto;"> 
         </li>
         <li>Recarregue a página.</li>
         <li>Selecione Windows 10 (ISO) > Confirme > Selecione o idioma > Confirme.</li>
